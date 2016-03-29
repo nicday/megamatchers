@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/kr/pretty"
+	"github.com/nicday/pretty"
 	"github.com/onsi/gomega/format"
 	"github.com/onsi/gomega/types"
 )
